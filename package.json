@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "lerna": "^4.0.0",
+    "typescript": "^4.3.5",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
@@ -21,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onflow/kitty-items.git"
+    "url": "git+https://github.com/ashiqul33/kitty-items.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/onflow/kitty-items/issues"
+    "url": "https://github.com/ashiqul33/kitty-items/issues"
   },
-  "homepage": "https://github.com/onflow/kitty-items#readme",
+  "homepage": "https://github.com/ashiqul33/kitty-items#readme",
   "engines": {
     "node": "14.x"
   }

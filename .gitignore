@@ -5,8 +5,8 @@ node_modules
 /coverage
 
 # production
-/build
-
+api/src
+web/src
 # misc
 .DS_Store
 

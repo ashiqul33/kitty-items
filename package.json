@@ -18,7 +18,8 @@
     "start:dev": "./scripts/run-local.sh",
     "start:testnet": "./scripts/run-testnet.sh",
     "setup-minter": "./scripts/setup-minter.sh",
-    "heroku-postbuild": "./scripts/build-all.sh"
+    "build": "./scripts/build-all.sh",
+    "heroku-postbuild": "npm install"
   },
   "repository": {
     "type": "git",
